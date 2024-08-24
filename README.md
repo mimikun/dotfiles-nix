@@ -1,5 +1,10 @@
 # dotfiles-nix
 
+## Limitations
+
+Nix is need [human rights].
+Therefore, in my environment, only [Home-WSL] and [Home-azusa] is targeted.
+
 ## TODO
 
 - [ ] dotfiles盆栽をNix管理
@@ -14,3 +19,7 @@
     - [ ] https://github.com/sachaos/viddy
     - [ ] https://github.com/brittonhayes/pillager
     - [ ] https://github.com/Dr-Noob/cpufetch
+
+[human rights]:https://github.com/mimikun/dotfiles/blob/master/docs/src/glossary.md#human-rights
+[Home-WSL]:https://github.com/mimikun/dotfiles/blob/master/docs/src/glossary.md#home-wsl
+[Home-azusa]:https://github.com/mimikun/dotfiles/blob/master/docs/src/glossary.md#home-azusa
